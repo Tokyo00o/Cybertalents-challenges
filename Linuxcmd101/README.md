@@ -290,4 +290,4 @@ flag{s1mple_linux_101}
 
 ---
 
-*Writeup based on my solution notes for the Linuxcmd 101 challenge.*
+*Writeup based on my solution note for the Linuxcmd 101 challenge.*
