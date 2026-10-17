@@ -33,4 +33,4 @@ ctf
 
 ## Key Takeaway
 
-**CTF** stands for **Capture The Flag**. It is a common format for practicing cybersecurity skills through challenges and puzzles.
+**CTF** stands for **Capture The Flag**. It is a common format for practicing cybersecurity skill through challenges and puzzles.
